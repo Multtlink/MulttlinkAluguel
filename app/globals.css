@@ -1,6 +1,9 @@
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .bg-\[url\(\)\] {
   background-image: none !important;
 }
-
