@@ -1,0 +1,231 @@
+[
+  {
+    "nome": "POSITIVO N1250",
+    "imagem": "notebooks/POSITIVON1250.webp",
+    "especificacoes": {
+      "processador": "Intel Pentium Quad-Core N5030",
+      "memoria_ram": "4GB",
+      "armazenamento": "128GB SSD",
+      "tela": "14 polegadas, LCD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 4",
+      "webcam": "720p HD, porta de privacidade",
+      "bateria": "Até 3 horas de duração",
+      "peso médio": "1,3 kg",
+      "bluetooth": "Bluetooth 4.0"
+    },
+    "preços": {
+      "24x": "172,99",
+      "36x": "119,99",
+      "48x": "100,99"
+    }
+  },
+  {
+    "nome": "LENOVO V14 G4",
+    "imagem": "notebooks/LENOVOV14G4.avif",
+    "especificacoes": {
+      "processador": "AMD Ryzen 5",
+      "memoria_ram": "8GB",
+      "armazenamento": "256GB SSD NVMe",
+      "tela": "14 polegadas, FHD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 5",
+      "webcam": "720p HD, porta de privacidade",
+      "bateria": "Até 8,5 horas de duração",
+      "peso médio": "1,37 kg",
+      "bluetooth": "Bluetooth 5.1",
+      "integração AMD Radeon 610M": "Sim"
+    },
+    "preços": {
+      "24x": "279,99",
+      "36x": "200,99",
+      "48x": "162,99"
+    }
+  },
+  {
+    "nome": "LENOVO V15 G4",
+    "imagem": "notebooks/LENOVOV15G4.avif",
+    "especificacoes": {
+      "processador": "Intel i5 13th Gen",
+      "memoria_ram": "16GB",
+      "armazenamento": "256GB SSD PCIE NVMe",
+      "tela": "15,6 polegadas, FHD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6",
+      "webcam": "720p HD, porta de privacidade",
+      "bateria": "Até 7,5 horas de duração",
+      "peso médio": "1,65 kg",
+      "bluetooth": "Bluetooth 5.0",
+      "integração Intel Graphics UHD": "Sim"
+    },
+    "preços": {
+      "24x": "345,99",
+      "36x": "247,99",
+      "48x": "198,99"
+    }
+  },
+  {
+    "nome": "DELL Pro 16",
+    "imagem": "notebooks/DELLPro16.avif",
+    "especificacoes": {
+      "processador": "Intel i5 13th Gen",
+      "memoria_ram": "16GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "16 polegadas, FHD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6e",
+      "webcam": "1080p HD, porta de privacidade",
+      "bateria": "Até 8 horas de duração",
+      "peso médio": "1,8 kg",
+      "bluetooth": "Bluetooth 5.3",
+      "Leitor biométrico": "Sim",
+      "Acompanha mouse": "Sim",
+      "Teclado resistente a água": "Sim",
+      "integração Intel Iris Xe Graphics": "Sim"
+    },
+    "preços": {
+      "24x": "466,99",
+      "36x": "332,99",
+      "48x": "266,99"
+    }
+  },
+  {
+    "nome": "LENOVO Thinkbook 14 G6",
+    "imagem": "notebooks/LENOVOThinkbook14G6.jpg",
+    "especificacoes": {
+      "processador": "Intel i7 13th Gen",
+      "memoria_ram": "16GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "14 polegadas, WUXGA antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6e",
+      "webcam": "720p HD, porta de privacidade",
+      "bateria": "Até 10 horas de duração",
+      "peso médio": "1,4 kg",
+      "bluetooth": "Bluetooth 5.1",
+      "integração Intel Onboard UHD": "Sim"
+    },
+    "preços": {
+      "24x": "400,99",
+      "36x": "295,99",
+      "48x": "245,99"
+    }
+  },
+  {
+    "nome": "LENOVO E14 G6",
+    "imagem": "notebooks/LENOVOE14G6.avif",
+    "especificacoes": {
+      "processador": "AMD Ryzen 7",
+      "memoria_ram": "16GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "14 polegadas, FHD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6e",
+      "webcam": "720p HD, porta de privacidade",
+      "bateria": "Até 10 horas de duração",
+      "peso médio": "1,5 kg",
+      "bluetooth": "Bluetooth 5.3",
+      "Leitor biométrico": "Sim",
+      "integração AMD Radeon GFX Label": "Sim"
+    },
+    "preços": {
+      "24x": "474,99",
+      "36x": "346,99",
+      "48x": "283,99"
+    }
+  },
+  {
+    "nome": "DELL Pro 14",
+    "imagem": "notebooks/DELLPro14.avif",
+    "especificacoes": {
+      "processador": "Intel core i7",
+      "memoria_ram": "16GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "14 polegadas, FHD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6e",
+      "webcam": "1080p HD, porta de privacidade",
+      "bateria": "Até 8 horas de duração",
+      "peso médio": "1,4 kg",
+      "bluetooth": "Bluetooth 5.2",
+      "Leitor biométrico": "Sim",
+      "Acompanha mouse": "Sim",
+      "integração Intel Graphics": "Sim"
+    },
+    "preços": {
+      "24x": "539,99",
+      "36x": "391,99",
+      "48x": "319,99"
+    }
+  },
+  {
+    "nome": "LENOVO E14 G6",
+    "imagem": "notebooks/LENOVOE14G632.avif",
+    "especificacoes": {
+      "processador": "Intel Ultra 7",
+      "memoria_ram": "32GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "14 polegadas, WUXGA antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6e",
+      "webcam": "720p HD, porta de privacidade",
+      "bateria": "Até 10 horas de duração",
+      "peso médio": "1,42 kg",
+      "bluetooth": "Bluetooth 5.3",
+      "Leitor biométrico": "Sim"
+    },
+    "preços": {
+      "24x": "526,99",
+      "36x": "382,99",
+      "48x": "311,99"
+    }
+  },
+  {
+    "nome": "DELL Pro 14",
+    "imagem": "notebooks/DELLPro1432.avif",
+    "especificacoes": {
+      "processador": "Intel i7",
+      "memoria_ram": "32GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "14 polegadas, FHD antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6E",
+      "webcam": "1080p HD, porta de privacidade",
+      "bateria": "Até 8 horas de duração",
+      "peso médio": "1,4 kg",
+      "bluetooth": "Bluetooth 5.3",
+      "Leitor biométrico": "Sim",
+      "Acompanha mouse": "Sim"
+    },
+    "preços": {
+      "24x": "592,99",
+      "36x": "429,99",
+      "48x": "349,99"
+    }
+  },
+  {
+    "nome": "LENOVO X13s 5G",
+    "imagem": "notebooks/LENOVOX13s5G.avif",
+    "especificacoes": {
+      "processador": "Qualcomm Snapdragon 8cx Gen 3",
+      "memoria_ram": "16GB",
+      "armazenamento": "512GB SSD NVMe",
+      "tela": "13.3 polegadas, WUXGA antirreflexo",
+      "sistema_operacional": "Windows 11 Pro",
+      "wifi": "Wi-Fi 6e",
+      "webcam": "5.0 MP, porta de privacidade",
+      "bateria": "Até 27 horas de duração",
+      "peso médio": "1,06 kg",
+      "bluetooth": "Bluetooth 5.1",
+      "Leitor biométrico": "Sim",
+      "Acompanha mouse": "Sim",
+      "integração Qualcomm Adreno 690 GPU": "Sim",
+      "sinal": "5G"
+    },
+    "preços": {
+      "24x": "945,99",
+      "36x": "645,99",
+      "48x": "538,99"
+    }
+  }
+]
