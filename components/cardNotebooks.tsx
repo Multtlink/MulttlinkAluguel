@@ -37,6 +37,13 @@ export default function CardNotebooks({
     .map((w) => w[0])
     .join("");
 
+  const handleClickTracker = () => {
+    window.gtag?.("event", "click_alugar_notebook", {
+      event_category: "engagement",
+      event_label: "botao_alugar",
+    });
+  };
+
   return (
     <>
       <article className="group flex flex-col rounded-xl overflow-hidden bg-white border border-slate-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
@@ -98,6 +105,7 @@ export default function CardNotebooks({
             >
               Detalhes
             </button>
+
             <a
               href={`https://wa.me/5585985834565?text=${encodeURIComponent(
                 `Olá, tenho interesse no aluguel do ${title}. Gostaria de mais informações.`,
