@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Analytics } from '@vercel/analytics/react'
+import { GoogleAnalytics } from '@next/third-parties/google'
 
 export const metadata: Metadata = {
   title: "Multtlink - aluguel de notebooks B2B",
@@ -19,6 +20,7 @@ export default function RootLayout({
       >
         {children}
         <Analytics />
+        <GoogleAnalytics gaId="G-0VW1JFCTMC" />
       </body>
     </html>
   );
