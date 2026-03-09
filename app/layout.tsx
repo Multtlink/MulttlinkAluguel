@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { Analytics } from '@vercel/analytics/react'
 
 export const metadata: Metadata = {
   title: "Multtlink - aluguel de notebooks B2B",
@@ -17,6 +18,7 @@ export default function RootLayout({
         className="antialiased"
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
